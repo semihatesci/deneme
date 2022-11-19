@@ -22,11 +22,7 @@ public class yılan {
 	        my_list.add("ege");
 	        my_list.add("fethiye");
 	        my_list.add("isim");
-	        my_list.add("leila");
-	        my_list.add("ceylan");
-	        my_list.add("yaralı");
-	        my_list.add("acımak");
-	        my_list.add("yanmak");
+	      
 	        
 	       
 	  
